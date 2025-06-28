@@ -6,10 +6,10 @@
 
 🚀 **We** leverage cutting-edge technologies and approaches — from architecture to final animations — to ensure your product isn't just up to date, but ahead of the curve.
 
-## 📞 Contact Us
+## Contact Us
 
-📱 **Phone:** [+41 79 538 5017](tel:+41795385017)
+📱 **Phone:** +41 79 538 5017
 
 💼 **LinkedIn:** [Company Profile](https://www.linkedin.com/company/arkadii-nahoha-software)
 
-✉️ **Email:** [arkadiinahohasoftware@outlook.com](mailto:arkadiinahohasoftware@outlook.com)
+✉️ **Email:** [Send](mailto:arkadiinahohasoftware@outlook.com)
