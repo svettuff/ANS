@@ -1,0 +1,26 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-color: #fdf6e3;
+  color: #333;
+}
+
+.center-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.markdown-body {
+  max-width: 900px;
+  width: 100%;
+  background: #fffaf0;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.markdown-body img {
+  max-width: 30px;
+}
