@@ -82,11 +82,11 @@ Error generating stack: `+n.message+`
 \r
 🚀 **We** leverage cutting-edge technologies and approaches — from architecture to final animations — to ensure your product isn't just up to date, but ahead of the curve.\r
 \r
-## 📞 Contact Us\r
+## Contact Us\r
 \r
-📱 **Phone:** [+41 79 538 5017](tel:+41795385017)\r
+📱 **Phone:** +41 79 538 5017\r
 \r
 💼 **LinkedIn:** [Company Profile](https://www.linkedin.com/company/arkadii-nahoha-software)\r
 \r
-✉️ **Email:** [arkadiinahohasoftware@outlook.com](mailto:arkadiinahohasoftware@outlook.com)\r
+✉️ **Email:** [Send](mailto:arkadiinahohasoftware@outlook.com)\r
 `;function eE(){return Fn.jsx("div",{className:"center-wrapper",children:Fn.jsx("article",{className:"markdown-body",children:Fn.jsx(jS,{remarkPlugins:[P2],children:tE})})})}C1.createRoot(document.getElementById("root")).render(Fn.jsx(x1.StrictMode,{children:Fn.jsx(eE,{})}));
