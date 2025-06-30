@@ -16,12 +16,16 @@ html, body, #root {
   max-width: 900px;
   width: 100%;
   background: #161b22;
-  color: #c9d1d9;
   border-radius: 8px;
   padding: 2rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  color: #c9d1d9;
 }
 
-.markdown-body img {
-  max-width: 30px;
+.markdown-body a {
+  color: #58a6ff;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
 }
