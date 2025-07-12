@@ -1,7 +1,7 @@
 html, body, #root {
   height: 100%;
   margin: 0;
-  background-color: #0d1117;
+  background: transparent;
   color: #c9d1d9;
 }
 
@@ -15,7 +15,7 @@ html, body, #root {
 .markdown-body {
   max-width: 900px;
   width: 100%;
-  background: #161b22;
+  background: transparent;
   border-radius: 8px;
   padding: 2rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.5);
@@ -28,4 +28,14 @@ html, body, #root {
 
 .markdown-body a:hover {
   text-decoration: underline;
+}
+
+.vanta-wrapper {
+  height: 100%;
+}
+.vanta-wrapper canvas {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
